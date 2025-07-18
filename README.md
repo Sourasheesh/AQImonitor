@@ -19,6 +19,8 @@ A compact, real-time **Air Quality Monitoring IoT device** using **ESP32**, **DH
 * Ideal for indoor air quality analysis, environmental monitoring, and smart home systems
 
 ---
+<img width="724" height="335" alt="image" src="https://github.com/user-attachments/assets/e1cdedbf-3abc-4bf3-8bee-a2e6d4a5a0ce" />
+
 
 
 
